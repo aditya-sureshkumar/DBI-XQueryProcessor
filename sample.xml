@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<classes>
+	<class1>
+	   <student rollno="393">
+	      <firstname>dinkar</firstname>
+	      <lastname>kad</lastname>
+	      <nickname>dinkar</nickname>
+	      <marks>85</marks>
+	   </student>
+	   <student rollno="493">
+	      <firstname>Vaneet</firstname>
+	      <lastname>Gupta</lastname>
+	      <nickname>vinni</nickname>
+	      <marks>95</marks>
+	   </student>
+	   <student rollno="593">
+	      <firstname>jasvir</firstname>
+	      <lastname>singn</lastname>
+	      <nickname>jazz</nickname>
+	      <marks>90</marks>
+	   </student>
+	</class1>
+	
+	<class2>
+	   <student rollno="13">
+	      <firstname>dr</firstname>
+	      <lastname>ka</lastname>
+	      <nickname>di</nickname>
+	      <marks>84</marks>
+	   </student>
+	   <student rollno="93">
+	      <firstname>Va</firstname>
+	      <lastname>Gua</lastname>
+	      <nickname>vii</nickname>
+	      <marks>85</marks>
+	   </student>
+	   <student rollno="53">
+	      <firstname>jair</firstname>
+	      <lastname>sgn</lastname>
+	      <nickname>az</nickname>
+	      <marks>99</marks>
+	   </student>
+	</class2>
+</classes>
